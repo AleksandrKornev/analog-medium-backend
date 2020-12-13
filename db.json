@@ -1,0 +1,171 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "login": "writer@mail.com",
+      "password": 123456,
+      "role": "writer"
+    },
+    {
+      "id": 2,
+      "login": "reader@mail.com",
+      "password": 123456,
+      "role": "reader"
+    }
+  ],
+  "posts": [
+    {
+      "title": "Название поста",
+      "description": "Текст",
+      "claps": 8,
+      "createdAt": "2020-02-13T00:00:00.000Z",
+      "updateAt": "2020-02-13T00:00:00.000Z",
+      "userId": 1,
+      "id": 10
+    },
+    {
+      "title": "Название поста",
+      "description": "Текст",
+      "claps": 3,
+      "createdAt": "2020-02-13T00:00:00.000Z",
+      "updateAt": "2020-02-13T00:00:00.000Z",
+      "userId": 1,
+      "id": 11
+    },
+    {
+      "title": "Название поста",
+      "description": "Текст",
+      "claps": 3,
+      "createdAt": "2020-02-13T00:00:00.000Z",
+      "updateAt": "2020-02-13T00:00:00.000Z",
+      "userId": 1,
+      "id": 12
+    },
+    {
+      "title": "Название поста",
+      "description": "Текст",
+      "claps": 3,
+      "createdAt": "2020-02-13T00:00:00.000Z",
+      "updateAt": "2020-02-13T00:00:00.000Z",
+      "userId": 1,
+      "id": 13
+    },
+    {
+      "title": "Название поста",
+      "description": "Текст",
+      "claps": 3,
+      "createdAt": "2020-02-13T00:00:00.000Z",
+      "updateAt": "2020-02-13T00:00:00.000Z",
+      "userId": 1,
+      "id": 14
+    },
+    {
+      "title": "Название поста",
+      "description": "Текст",
+      "claps": 3,
+      "createdAt": "2020-02-13T00:00:00.000Z",
+      "updateAt": "2020-02-13T00:00:00.000Z",
+      "userId": 1,
+      "id": 15
+    },
+    {
+      "title": "Название поста",
+      "description": "Текст",
+      "claps": 3,
+      "createdAt": "2020-02-13T00:00:00.000Z",
+      "updateAt": "2020-02-13T00:00:00.000Z",
+      "userId": 1,
+      "id": 16
+    },
+    {
+      "title": "Название поста",
+      "description": "Текст",
+      "claps": 3,
+      "createdAt": "2020-02-13T00:00:00.000Z",
+      "updateAt": "2020-02-13T00:00:00.000Z",
+      "userId": 1,
+      "id": 17
+    },
+    {
+      "title": "Название пост",
+      "description": "Текст",
+      "claps": 3,
+      "createdAt": "2020-02-13T00:00:00.000Z",
+      "updateAt": "2020-02-13T00:00:00.000Z",
+      "userId": 1,
+      "id": 18
+    },
+    {
+      "title": "Название поста",
+      "description": "Текст",
+      "claps": 3,
+      "createdAt": "2020-02-13T00:00:00.000Z",
+      "updateAt": "2020-02-13T00:00:00.000Z",
+      "userId": 1,
+      "id": 19
+    },
+    {
+      "title": "Название поста",
+      "description": "Текст",
+      "claps": 3,
+      "createdAt": "2020-02-13T00:00:00.000Z",
+      "updateAt": "2020-02-13T00:00:00.000Z",
+      "userId": 1,
+      "id": 20
+    },
+    {
+      "title": "Название поста",
+      "description": "Текст",
+      "claps": 3,
+      "createdAt": "2020-02-13T00:00:00.000Z",
+      "updateAt": "2020-02-13T00:00:00.000Z",
+      "userId": 1,
+      "id": 21
+    },
+    {
+      "title": "Название поста",
+      "description": "Текст",
+      "claps": 3,
+      "createdAt": "2020-02-13T00:00:00.000Z",
+      "updateAt": "2020-02-13T00:00:00.000Z",
+      "userId": 1,
+      "id": 22
+    },
+    {
+      "title": "Название поста",
+      "description": "Текст",
+      "claps": 3,
+      "createdAt": "2020-02-13T00:00:00.000Z",
+      "updateAt": "2020-02-13T00:00:00.000Z",
+      "userId": 1,
+      "id": 24
+    },
+    {
+      "title": "Название по",
+      "description": "Текст",
+      "claps": 3,
+      "createdAt": "2020-02-13T00:00:00.000Z",
+      "updateAt": "2020-02-13T20:32:02.050Z",
+      "userId": 1,
+      "id": 25
+    },
+    {
+      "title": "Created v2",
+      "description": "Текст",
+      "claps": 3,
+      "createdAt": "2020-02-13T00:00:00.000Z",
+      "updateAt": "2020-02-13T20:39:12.761Z",
+      "userId": 1,
+      "id": 26
+    },
+    {
+      "title": "create block",
+      "description": "this created block",
+      "createdAt": "2020-02-13T20:24:09.183Z",
+      "updateAt": "2020-02-13T20:24:09.183Z",
+      "claps": 0,
+      "userId": 1,
+      "id": 28
+    }
+  ]
+}
